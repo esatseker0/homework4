@@ -1,0 +1,15 @@
+body {
+    background-color:grey;
+    font-family: monospace;
+}
+h1 {
+    color: crimson;
+    font-size: 50px;
+    font-style: italic;
+}
+h2 {
+    color:gold;
+}
+p {
+    color: maroon;
+}
